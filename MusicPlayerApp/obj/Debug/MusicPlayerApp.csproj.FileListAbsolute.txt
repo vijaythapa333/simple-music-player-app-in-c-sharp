@@ -1,0 +1,14 @@
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojResolveAssemblyReference.cache
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.Cache
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\vijaythapa333\Desktop\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
