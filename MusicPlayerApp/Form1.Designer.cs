@@ -60,7 +60,7 @@
             this.lblLogo.Name = "lblLogo";
             this.lblLogo.Size = new System.Drawing.Size(103, 17);
             this.lblLogo.TabIndex = 0;
-            this.lblLogo.Text = "Music Player App";
+            this.lblLogo.Text = "Simple Music Player App";
             // 
             // pictureBox1
             // 
@@ -93,7 +93,7 @@
             this.btnSelectSongs.Name = "btnSelectSongs";
             this.btnSelectSongs.Size = new System.Drawing.Size(183, 49);
             this.btnSelectSongs.TabIndex = 2;
-            this.btnSelectSongs.Text = "Select Songs";
+            this.btnSelectSongs.Text = "Find Your Music";
             this.btnSelectSongs.UseVisualStyleBackColor = false;
             this.btnSelectSongs.Click += new System.EventHandler(this.btnSelectSongs_Click);
             // 
@@ -114,7 +114,7 @@
             this.lblFooter.Name = "lblFooter";
             this.lblFooter.Size = new System.Drawing.Size(136, 13);
             this.lblFooter.TabIndex = 4;
-            this.lblFooter.Text = "Developed By: Vijay Thapa";
+            this.lblFooter.Text = "Developed By: Team Diamond ";
             // 
             // MusicPlayerApp
             // 
