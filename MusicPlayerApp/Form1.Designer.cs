@@ -114,7 +114,7 @@
             this.lblFooter.Name = "lblFooter";
             this.lblFooter.Size = new System.Drawing.Size(136, 13);
             this.lblFooter.TabIndex = 4;
-            this.lblFooter.Text = "Developed By: Vijay Thapa";
+            this.lblFooter.Text = "Developed By: Team Diamond ";
             // 
             // MusicPlayerApp
             // 
